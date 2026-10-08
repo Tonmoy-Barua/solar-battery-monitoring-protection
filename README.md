@@ -334,7 +334,7 @@ solar-battery-monitoring-protection/
 │   └── SolarBatteryMonitor/
 │
 ├── documentation/
-│   └── Solar_Battery_Monitoring_and_Protection.docx
+│   └── SolarBatteryMonitor.docx
 │
 ├── .gitignore
 └── README.md
