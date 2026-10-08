@@ -1,0 +1,37 @@
+# MPLAB X generated files
+**/build/
+**/dist/
+**/nbproject/private/
+**/nbproject/Makefile-*
+**/nbproject/Package-*.bash
+**/nbproject/Makefile-local-*.mk
+
+# XC8 generated files
+*.hex
+*.elf
+*.map
+*.lst
+*.cof
+*.o
+*.sdb
+
+# MPLAB X user-specific files
+*.launch
+
+# Proteus temporary/backup files
+*.bak
+*.tmp
+*.pwi
+*.sdf
+
+# Windows temporary files
+Thumbs.db
+desktop.ini
+
+# Editor/OS temporary files
+*.swp
+*.swo
+
+# Proteus user/workspace and backup files
+**/*.workspace
+**/Project Backups/
